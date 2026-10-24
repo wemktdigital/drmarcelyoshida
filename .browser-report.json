@@ -1,0 +1,737 @@
+{
+  "failures": [
+    {
+      "page": "/avaliacao-de-olho-seco-em-tres-lagoas/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/agendar-consulta-oftalmologista/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430"
+      ]
+    },
+    {
+      "page": "/404.html",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/avaliacao-do-campo-visual/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/biometria/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/avaliar-oftalmologista-perto/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/baixar-pressao-ocular/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/category/doencas-e-tratamentos/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/blog/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/playfairdisplay.css?ver=1751493977"
+      ]
+    },
+    {
+      "page": "/category/exames/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/category/exames/page/2/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/category/lp/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/category/uncategorized/page/3/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/category/uncategorized/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/category/uncategorized/page/2/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987"
+      ]
+    },
+    {
+      "page": "/cirurgia-de-blefaroplastia-em-tres-lagoas/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/cirurgia-de-pterigio-em-tres-lagoas/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/category/uncategorized/page/4/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/cirurgia-de-pterigio-em-tres-lagoas-ms/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/consulta-oftalmologica-completa-em-tres-lagoas/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/contato/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/cirurgiao-oftalmologista-palpabras/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987"
+      ]
+    },
+    {
+      "page": "/cirurgiao-pterigio-olhos/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/dormir-com-lente-de-contato-faz-mal-para-a-saude-da-cornea-riscos-e-cuidados-essenciais-para-a-sua-visao/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/doencas-e-tratamentos/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987"
+      ]
+    },
+    {
+      "page": "/dormir-com-lente-de-contato-faz-mal-para-a-saude-da-cornea-2/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/dormir-com-lente-de-contato-faz-mal-para-a-saude-da-cornea-descubra-os-riscos-e-cuidados-essenciais/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/exame-de-refracao/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/dormir-lente-contato-cornea/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/dormir-com-lente-de-contato-faz-mal-para-a-saude-da-cornea/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/encontrar-oftalmologista-confianca/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/fatores-risco-glaucoma/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/exames-oftalmologicos-rotina/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/frear-evolucao-ceratocone/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/frequencia-oftalmologista-adultos-idosos/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/link/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987"
+      ]
+    },
+    {
+      "page": "/gonioscopia/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/fundoscopia-em-tres-lagoas/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/local/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987"
+      ]
+    },
+    {
+      "page": "/mapeamento-de-retina/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/melhor-cirurgiao-blefaroplastia/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987"
+      ]
+    },
+    {
+      "page": "/melhor-oftalmologista-ms/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/melhor-oftalmologista-tres-lagoas/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/obrigado/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/obrigado-ligacao/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/microscopia/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987"
+      ]
+    },
+    {
+      "page": "/o-que-e-glaucoma/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/oftalmologista-especialista-em-saude-ocular-em-tres-lagoas-a-importancia-do-cuidado-com-a-saude-dos-seus-olhos/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987"
+      ]
+    },
+    {
+      "page": "/oftalmologista-tres-lagoas-2/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/oftalmologista-tres-lagoas/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/olho-seco-impede-o-uso-seguro-de-lentes-de-contato/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/orientacao-sobre-cuidados-com-lentes-de-contato-em-tres-lagoas/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/paquimetria/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/pam-potencial-de-acuidade-visual/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/orientacao-lentes-contato-personalizada/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/pentacam/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/politica-de-privacidade/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/playfairdisplay.css?ver=1751493977"
+      ]
+    },
+    {
+      "page": "/retinografia/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/sintomas-oftalmologicos-urgencia/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/termos-de-uso/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/playfairdisplay.css?ver=1751493977",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/sobre/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/test/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/teste-acuidade-visual-oftalmologia/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/teste-de-acuidade-visual-em-tres-lagoas/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987"
+      ]
+    },
+    {
+      "page": "/tonometria-em-tres-lagoas/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/teste-de-visao-de-cores-em-tres-lagoas/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/teste-de-visao-de-cores-e-deteccao-de-daltonismo-descubra-como-identificar-e-compreender-o-daltonismo/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/topografia/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/tratamento-acuidade-visual/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/tratamento-afinacoes-cornea/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/tratamento-ceratocone-criterios/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987"
+      ]
+    },
+    {
+      "page": "/tratamento-do-ceratocone-em-tres-lagoas/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/tratamento-do-glaucoma-em-tres-lagoas/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/tratamento-do-glaucoma-em-tres-lagoas-ms/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/tratamento-continuo-glaucoma/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/tratamento-doencas-visuais-tres/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/tratamento-glaucoma-tres-lagoas/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/tratamento-glaucoma-tres-lagoas-2/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/tratamento-olho-seco-tres/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    },
+    {
+      "page": "/tratamento-olho-seco/",
+      "bad": [
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1753822396",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/mulish.css?ver=1753822430",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css?ver=1751493987",
+        "404 http://127.0.0.1:58683/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1751999144"
+      ]
+    }
+  ],
+  "liveHits": [],
+  "brokenImages": []
+}

@@ -1,0 +1,5 @@
+/wp-content/uploads/elementor/google-fonts/css/poppins.css
+/wp-content/uploads/elementor/google-fonts/css/mulish.css
+/wp-content/uploads/elementor/google-fonts/css/plusjakartasans.css
+/wp-content/uploads/elementor/google-fonts/css/montserrat.css
+/wp-content/uploads/elementor/google-fonts/css/playfairdisplay.css
